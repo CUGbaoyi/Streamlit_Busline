@@ -10,6 +10,10 @@ pip install requests_html geopandas folium pypinyin faker streamlit_folium
 ```
 
 ## Usage
+直接使用
+```python
+streamlit run streamlit_busline.py
+```
 一共有两种抓取方式
 
 1. 上传站点文件抓取
